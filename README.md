@@ -12,4 +12,4 @@ This project is a Laravel-based web application designed to streamline the food 
 - **HTML/CSS**: For creating the user interface.
 - **JavaScript**: For enhancing user interaction and dynamic elements.
 - **MySQL**: For storing and managing data.
-- **Payment Gateway**: Stripe for secure online payment processing service  Stripe.
+- **Payment Gateway**: Stripe for secure online payment processing service.
